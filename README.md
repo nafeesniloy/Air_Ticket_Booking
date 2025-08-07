@@ -1,4 +1,7 @@
 ✈️ Project Title – Air Ticket Booking System
+
+
+
 📄 Description
 A simple and functional web-based application built with PHP and MySQL that allows users to register, log in, search for flights, and book air tickets. This project was developed to practice core web development skills and simulate a real-world, database-driven airline booking system.
 
