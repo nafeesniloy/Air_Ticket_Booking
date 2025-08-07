@@ -1,24 +1,21 @@
 ✈️ Project Title – Air Ticket Booking System
-
 📄 Description
-A user-friendly and efficient web-based application developed with PHP and MySQL that enables users to search, book, and manage flight tickets. This project was created to practice essential web development skills while simulating a real-world, database-driven airline reservation system.
+A simple and functional web-based application built with PHP and MySQL that allows users to register, log in, search for flights, and book air tickets. This project was developed to practice core web development skills and simulate a real-world, database-driven airline booking system.
 
 🚀 Features
-User registration & login (with input validation)
+User registration & login (with validation)
 
-Admin panel to add, edit, delete, and view flights and schedules
+Admin can add, edit, delete, and view flights and schedules
 
-Users can search for flights, book tickets, and view their booking history
+Users can search flights, book tickets, and view their bookings
 
-Secure interaction with MySQL database using PHP
+Secure database interaction using PHP & MySQL
 
-Clean and responsive design implemented with HTML and CSS
+Clean, responsive design with HTML/CSS
 
 🔧 Technologies Used
 Frontend: HTML, CSS
-
 Backend: PHP
-
 Database: MySQL (phpMyAdmin)
 
 ![IMAGE 2025-08-07 11:54:32](https://github.com/user-attachments/assets/e8893059-68b3-4de8-ab3f-e41e702caac5)
