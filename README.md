@@ -1,4 +1,6 @@
 ✈️ Air Ticket Booking System
+
+
 📄 Description
 A simple, functional, and user-friendly web application built using PHP and MySQL that enables users to register, log in, search for available flights, and book air tickets. Designed as a practice project to strengthen core web development skills and simulate a real-world airline booking system with a secure database backend.
 
