@@ -5,6 +5,7 @@
 A simple, functional, and user-friendly web application built using PHP and MySQL that enables users to register, log in, search for available flights, and book air tickets. Designed as a practice project to strengthen core web development skills and simulate a real-world airline booking system with a secure database backend.
 
 🚀 Features
+
 User registration and login with form validation and authentication
 
 Admin dashboard to add, edit, delete, and manage flights and schedules
@@ -18,11 +19,14 @@ Secure interaction with MySQL database using prepared statements to prevent SQL 
 Clean, responsive user interface built with HTML and CSS for seamless experience across devices
 
 🔧 Technologies Used
+
+
 Frontend: HTML, CSS
 
 Backend: PHP
 
 Database: MySQL (managed via phpMyAdmin)
+
 
 
 
